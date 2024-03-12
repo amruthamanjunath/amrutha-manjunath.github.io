@@ -13,11 +13,11 @@ locale                   : "en-US"
 title                    : "Amrutha Manjunath"
 title_separator          : "-"
 name                     : &name "Amrutha Manjunath"
-description              : # &description ""
+description              : "" # &description ""
 url                      : https://amrutha-manjunath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://amrutha-manjunath.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "amruthamanjunath/amrutha-manjunath.github.io"
-
+github                   : [metadata]
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
