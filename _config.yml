@@ -13,8 +13,8 @@ locale                   : "en-US"
 title                    : "Amrutha Manjunath"
 title_separator          : "-"
 name                     : &name "Amrutha Manjunath"
-description              : "" # &description ""
-url                      : https://amrutha-manjunath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "" # &description 
+url                      : "https://amrutha-manjunath.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://amrutha-manjunath.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "amruthamanjunath/amrutha-manjunath.github.io"
 github                   : [metadata]
